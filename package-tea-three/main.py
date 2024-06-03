@@ -7,7 +7,7 @@
 import itertools
 
 
-case_lists = ['username', 'password']
+case_lists = ['username', 'pwd']
 value_lists = ['correct', 'incorrect', 'specific symbol', 'maximum length']
 
 
@@ -21,4 +21,4 @@ def test_print():
 
 if __name__ == '__main__':
     # test_print()
-    gen_case(）
+    gen_case()
